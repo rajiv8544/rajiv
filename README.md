@@ -31,7 +31,7 @@ I am a MLOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :zap: In my free time, I play sports or go out for a walk.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/rajivsharma8544/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajivsharma8544/)
 
 ****
 
